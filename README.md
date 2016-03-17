@@ -5,7 +5,7 @@ Dear Sean,
 This is my first time using GitHub.
 I believe GitHub might make me happy.
 
-Thanks.
+Thank you.
 
 Best regards,
 
